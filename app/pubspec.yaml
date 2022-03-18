@@ -1,0 +1,38 @@
+name: seeyu
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  url_launcher: 6.0.0
+  flutter_local_notifications: ^8.1.1+1
+  firebase_core: ^1.2.1
+  firebase_messaging: ^11.2.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  # - assets/images/
+
+  fonts:
+    - family: Almarena
+      fonts:
+        - asset: assets/fonts/Almarena - Almarena Display Light.otf
+        - asset: assets/fonts/Almarena - Almarena Bold.otf
+
+  #         style: italic

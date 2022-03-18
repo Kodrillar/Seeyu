@@ -1,0 +1,32 @@
+{
+  "name": "seeyu-api",
+  "version": "1.0.0",
+  "description": "API for Seeyu(security system) app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+   
+  },
+  "keywords": [
+    "astradb",
+    "cassandra",
+    "astra",
+    "streaming",
+    "pulsar",
+    "express"
+  ],
+  "author": "David Ipadeola",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "pulsar-client":"^1.5.0"
+    "express": "^4.17.3",
+    "firebase-admin": "^10.0.2",
+    "imgur": "^2.1.4",
+    "pi-pir-sensor": "^0.0.3",
+    "tslib": "^2.3.1"
+  }
+}

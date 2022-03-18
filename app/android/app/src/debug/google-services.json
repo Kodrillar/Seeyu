@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702960896122",
+    "project_id": "seeyu-api",
+    "storage_bucket": "seeyu-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702960896122:android:98f0bfded421170557d3c3",
+        "android_client_info": {
+          "package_name": "com.example.seeyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702960896122-a4dljpf941u8taav3ltoin9146sev2jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCwNx0scSXRiELVgd4ybjrBAwoIizejA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702960896122-a4dljpf941u8taav3ltoin9146sev2jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
