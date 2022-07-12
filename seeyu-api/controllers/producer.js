@@ -1,7 +1,6 @@
 
 const path = require("path")
 const notify = require("../services/notification-message"); 
-// const firebase-messaging = require("../services/firebase-notification"); 
 const fs = require("fs");
 const PiCamera = require("pi-camera");
 const Sensor = require("pi-pir-sensor");
