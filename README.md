@@ -2,7 +2,7 @@
 
 A security monitoring mobile app.
 ## Getting Started
-Seeyu is a security solution making use of sensors and indicators to show potential security threats and triage those threats with appropriate actions. Seeyu sends signal to it's users when there is an intruder.
+Seeyu is a security solution making use of sensors and indicators to show potential security threats and triage those threats with appropriate actions. Seeyu sends signal to it's user when there is an intruder.
 
 ![home_page](https://user-images.githubusercontent.com/67793558/165053437-e9700039-b22f-4526-b5c2-cbb63b335060.png)
 
