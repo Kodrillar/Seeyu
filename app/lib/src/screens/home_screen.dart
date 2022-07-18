@@ -3,10 +3,10 @@ import 'package:seeyu/src/models/notification_model.dart';
 import 'package:seeyu/src/screens/notification_screen.dart';
 import 'package:seeyu/src/screens/settings.dart';
 import 'package:seeyu/src/services/api_base_helper.dart';
-import 'package:seeyu/src/widgets/customBottomSheet.dart';
-import '../widgets/cameraControlButon.dart';
+import 'package:seeyu/src/widgets/custom_bottom_sheet.dart';
+import '../widgets/camera_control_button.dart';
 import '../utils/constant.dart';
-import '../widgets/takeActionButton.dart';
+import '../widgets/take_action_button.dart';
 import 'capture_screen.dart';
 
 const ASTRA_TOKEN = kAstraToken;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:seeyu/src/utils/constant.dart';
 
-import 'customBottomSheet.dart';
+import 'custom_bottom_sheet.dart';
 
 class NotificationBar extends StatelessWidget {
   NotificationBar({Key? key, this.notificationText, this.time, this.image})

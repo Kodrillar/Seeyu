@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:seeyu/src/utils/constant.dart';
-import 'package:seeyu/src/widgets/takeActionOptionButton.dart';
+import 'package:seeyu/src/widgets/take_action_option_button.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class CustomBottomSheet extends StatefulWidget {

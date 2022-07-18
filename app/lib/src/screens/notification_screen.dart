@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:seeyu/src/models/notification_model.dart';
 import 'package:seeyu/src/services/api_base_helper.dart';
-import 'package:seeyu/src/widgets/imageDialog.dart';
+import 'package:seeyu/src/widgets/image_dialog.dart';
 import '../utils/constant.dart';
-import "../widgets/takeActionButton.dart";
-import "../widgets/notificationBar.dart";
+import "../widgets/take_action_button.dart";
+import '../widgets/notification_bar.dart';
 
 const ASTRA_TOKEN = kAstraToken;
 

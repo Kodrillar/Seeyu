@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:seeyu/src/utils/constant.dart';
-import '../widgets/settingBar.dart';
+import '../widgets/setting_bar.dart';
 
 class SettingScreen extends StatefulWidget {
   const SettingScreen({Key? key}) : super(key: key);
