@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:seeyu/src/screens/loginScreen.dart';
+import 'package:seeyu/src/screens/login_screen.dart';
 import 'package:seeyu/src/screens/settings.dart';
-import 'package:seeyu/src/screens/signUpScreen.dart';
-import 'src/screens/homeScreen.dart';
-import 'src/screens/notificationScreen.dart';
-import 'src/screens/profileScreen.dart';
-import 'src/screens/captureScreen.dart';
+import 'package:seeyu/src/screens/sign_up_screen.dart';
+import 'src/screens/home_screen.dart';
+import 'src/screens/notification_screen.dart';
+import 'src/screens/profile_screen.dart';
+import 'src/screens/capture_screen.dart';
 
 void main() {
   runApp(

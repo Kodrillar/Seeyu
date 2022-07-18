@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:seeyu/src/models/notification_model.dart';
-import 'package:seeyu/src/screens/notificationScreen.dart';
+import 'package:seeyu/src/screens/notification_screen.dart';
 import 'package:seeyu/src/screens/settings.dart';
-import 'package:seeyu/src/services/apiBaseHelper.dart';
+import 'package:seeyu/src/services/api_base_helper.dart';
 import 'package:seeyu/src/widgets/customBottomSheet.dart';
 import '../widgets/cameraControlButon.dart';
 import '../utils/constant.dart';
 import '../widgets/takeActionButton.dart';
-import 'captureScreen.dart';
+import 'capture_screen.dart';
 
 const ASTRA_TOKEN = kAstraToken;
 const URL = kUrl;
